@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bbd9f5a7-8b83-418d-aaaf-c13c439b3b95" name="cookyServer" url="http://localhost:8888/cooky">
+        <fileTransfer mountedRoot="/Applications/MAMP/htdocs/cooky" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
